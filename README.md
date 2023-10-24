@@ -57,7 +57,7 @@
 
 Date | Commit Message | Version
 :-----|:----------------:|:--------:
-14.09.23 | initial setup | 0.2.1
+20.10.23 | Final version | 3.0.2
 
 ### References
 
