@@ -3,6 +3,7 @@
 ## an IoT project
 
 ![Yellow-Umbrella](public/assets/yellow-umbrella.png)
+![Board](public/assets/Board.png)
 
 ### Development Roadmap
 
